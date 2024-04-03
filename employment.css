@@ -1,0 +1,45 @@
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10vw;
+    margin-top: -2vw;
+    margin-bottom: -2vw;
+    color: rgb(148, 247, 0);
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div{
+    margin-left: 2.75vw;
+    margin-top: 5vw;
+    font-size: 1.1vw;
+}
+nav{
+    display: inline-flex;
+    font-family: Helvetica, Arial, sans-serif;   
+}
+h2{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vw;
+    line-height: 200%;
+    font-size: 2vw;
+}
+ul{
+    margin-left: 30vw;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    line-height: 200%;
+    font-size: 1.5vw;
+    margin-bottom: 20vw;
+}
+footer{
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 1vw;
+}
