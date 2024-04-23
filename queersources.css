@@ -1,10 +1,24 @@
 
 h1{
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 10vw;
-    margin-top: -2vw;
+    font-size: 3vw;
+    margin-top: 4vw;
     margin-bottom: -2vw;
     text-align: center;
+    color:rgb(0, 172, 86);
+}
+.form{
+    width:50vw;
+    margin-top: 3vw;
+    margin-left: 23vw;
+    margin-bottom: 5vw;
+}
+img{
+    margin-top: -3vw;
+    margin-bottom: -8vw;
+    width: 80vw;
+    margin-left: 8vw;
+    margin-right: auto;
 }
 p{
     color:rgb(0, 172, 86);
@@ -28,6 +42,7 @@ h3{
     margin-right: 30vw;
     line-height: 200%;
     font-size: 2vw;
+    color:rgb(0, 172, 86);
 }
 a{
     text-decoration: none;
@@ -36,7 +51,7 @@ a{
 div{
     margin-left: 2.75vw;
     margin-top: 5vw;
-    font-size: 1.1vw;
+    font-size: 1vw;
 }
 nav{
     display: inline-flex;

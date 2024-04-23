@@ -5,6 +5,13 @@ h1{
     margin-bottom: -2vw;
     text-align: center;
 }
+img{
+    margin-top: -3vw;
+    margin-bottom: -8vw;
+    width: 80vw;
+    margin-left: 8vw;
+    margin-right: auto;
+}
 p{
     color:rgb(0, 172, 86);
     margin-top: 4vw;
@@ -17,7 +24,7 @@ a{
 div{
     margin-left: 2.75vw;
     margin-top: 5vw;
-    font-size: 1.1vw;
+    font-size: 1vw;
 }
 nav{
     display: inline-flex;
