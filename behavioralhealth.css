@@ -3,9 +3,13 @@ h1{
     font-size: 10vw;
     margin-top: -2vw;
     margin-bottom: -2vw;
-    color: rgb(148, 247, 0);
     text-align: center;
 
+}
+p{
+    color:rgb(0, 172, 86);
+    margin-top: 4vw;
+    margin-bottom: 1vw;
 }
 a{
     text-decoration: none;
@@ -29,17 +33,13 @@ h2{
     line-height: 200%;
     font-size: 2vw;
 }
-h4{
-    font-family: Helvetica, Arial, sans-serif;
-    text-align: center;
-}
 ul{
     margin-left: 30vw;
     font-family: Helvetica, Arial, sans-serif;
     text-decoration: none;
     line-height: 200%;
     font-size: 1.5vw;
-    margin-bottom: 20vw;
+    margin-bottom: 5vw;
 }
 footer{
     text-decoration: none;
