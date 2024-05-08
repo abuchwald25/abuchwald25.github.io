@@ -6,12 +6,19 @@ h1{
     text-align: center;
 
 }
-img{
+#title{
     margin-top: -3vw;
     margin-bottom: -8vw;
     width: 80vw;
     margin-left: 8vw;
     margin-right: auto;
+}
+#therapy{
+    margin-top: 3vw;
+    margin-bottom: -2vw;
+    width: 102%;
+    margin-left: -1vw;
+
 }
 p{
     color:rgb(0, 172, 86);

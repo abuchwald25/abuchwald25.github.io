@@ -13,12 +13,19 @@ h1{
     margin-left: 23vw;
     margin-bottom: 5vw;
 }
-img{
+#title{
     margin-top: -3vw;
     margin-bottom: -8vw;
     width: 80vw;
     margin-left: 8vw;
     margin-right: auto;
+}
+#home{
+    margin-top: 3vw;
+    margin-bottom: -2vw;
+    width: 102%;
+    margin-left: -1vw;
+
 }
 p{
     color:rgb(0, 172, 86);
